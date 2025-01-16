@@ -1,5 +1,3 @@
-Here are the Python programs based on your requests:
-
 ### 1. **Print "Hello, World!"**
 print("Hello, World!")
 
